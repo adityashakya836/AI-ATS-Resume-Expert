@@ -1,5 +1,6 @@
 # 🚀 AI ATS Expert
-
+![Project Screenshot](https://github.com/adityashakya836/AI-ATS-Resume-Expert/blob/master/Screenshot%202024-09-08%20151246.png)
+![Project Screenshot](https://github.com/adityashakya836/AI-ATS-Resume-Expert/blob/master/Screenshot%202024-09-08%20151258.png)
 This project utilizes **Google's Generative AI** to analyze job descriptions and resumes, providing insightful information about the resume's relevance to the job requirements.
 
 ## ✨ Key Features:
@@ -23,3 +24,21 @@ This project utilizes **Google's Generative AI** to analyze job descriptions and
 - 🧮 **Algorithm Development**: Implements a matching algorithm to compare the extracted resume information against the job description.
 
 This project offers a valuable tool for recruiters and job seekers, facilitating efficient and accurate resume analysis.
+
+## 🛠️ Setup
+1. Clone The Repository
+   ```bash
+   git clone https://github.com/adityashakya836/AI-ATS-Resume-Expert.git
+    cd AI-ATS-Resume-Expert
+2. Create Virtual Environment
+   ```bash
+   python -m venv venv
+3. Activate Virtual Environment
+   ```bash
+   venv\Scripts\activate
+4. Install requirements.txt
+   ```bash
+   pip install requirements.txt
+5. Run app.py file
+   ```bash
+   streamlit run app.py
